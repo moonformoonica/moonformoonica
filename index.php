@@ -17,7 +17,7 @@
 
         body {
             font-family: "Times New Roman", Times, serif;
-            background-color: #ffffffff;
+            background-color: #1a0112ff;
             color: #ef4c9dc8;
             display: flex;
             justify-content: center;
@@ -32,7 +32,7 @@
             padding: 10px; 
             border-radius: 72px;
             box-shadow: 7px 7px 7px #ffb9deff;
-            background-image: conic-gradient(from var(--angle), #f46ab6ff, #bd357eff, #ee9dc9ff);
+            background-image: conic-gradient(from var(--angle), #f46ab6ff, #bd357eff, #fab0d8ff);
             animation: spin 3s linear infinite;
         }
 
